@@ -1,0 +1,1 @@
+[assembly: ObjCRuntime.LinkWith ("tingyunApp.a", SmartLink = true, ForceLoad = true, Frameworks = "CoreTelephony Security SystemConfiguration ", LinkerFlags = "-ObjC -all_load -lstdc++ -lsqlite3.0 -lz")]

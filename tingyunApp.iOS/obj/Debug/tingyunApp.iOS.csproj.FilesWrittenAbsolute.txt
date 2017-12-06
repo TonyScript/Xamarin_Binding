@@ -1,0 +1,5 @@
+/Users/xxpang/Projects/tingyunApp.iOS/tingyunApp.iOS/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/xxpang/Projects/tingyunApp.iOS/tingyunApp.iOS/bin/Debug/tingyunApp.iOS.dll.mdb
+/Users/xxpang/Projects/tingyunApp.iOS/tingyunApp.iOS/bin/Debug/tingyunApp.iOS.dll
+/Users/xxpang/Projects/tingyunApp.iOS/tingyunApp.iOS/obj/Debug/tingyunApp.iOS.dll
+/Users/xxpang/Projects/tingyunApp.iOS/tingyunApp.iOS/obj/Debug/tingyunApp.iOS.dll.mdb
